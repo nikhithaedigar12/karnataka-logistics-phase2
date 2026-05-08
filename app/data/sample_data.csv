@@ -1,0 +1,6 @@
+worker_id,job_id,employer_id,skill,location,wage
+W001,J101,E201,Driving,Bangalore,22000
+W002,J102,E202,Loading,Mysore,18000
+W003,J103,E203,Forklift,Dharwad,25000
+W004,J104,E204,Delivery,Mangalore,21000
+W005,J105,E205,Warehouse,Belagavi,24000
